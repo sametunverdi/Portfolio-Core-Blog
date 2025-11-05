@@ -7,6 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="readme-img\DeneyimlerimAdmin.png" />
+    <Content Include="readme-img\hakkımdaAdmin.png" />
+    <Content Include="readme-img\istatislikAdmin.png" />
+    <Content Include="readme-img\MesajlarAdmin.png" />
+    <Content Include="readme-img\SiteAnaSayfa.png" />
+    <Content Include="readme-img\YapılacaklarAdmin.png" />
+    <Content Include="readme-img\YeteneklerimAdmin.png" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="wwwroot\Ready-Bootstrap-Dashboard-master\.DS_Store" />
   </ItemGroup>
 
